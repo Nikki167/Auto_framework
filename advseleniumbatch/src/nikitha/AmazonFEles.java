@@ -16,7 +16,7 @@ public class AmazonFEles {
 		 Thread.sleep(2000);
 		 List<WebElement> links = driver.findElements(By.xpath("//a|//img"));
 		 //int count = links.size();
-		 System.out.println(count);
+		 //System.out.println(count);
 		 
 		
 		
